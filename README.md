@@ -1,4 +1,4 @@
-Simple template for a react app with some things pre-configured
+Template for a react app with some things pre-configured
 
 * [Grommet](https://v2.grommet.io/) components ready to go
 * Navbar and page router set up, add new button links by adding `GrommetButtonNav` components to NavBar.js
