@@ -1,0 +1,116 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Box {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px;
+}
+
+#avatar-image {
+  border-radius: 75%;
+  padding-right: 20px;
+  vertical-align: top;
+  width: 100px;
+}
+
+#nav-bar {
+  padding-top: 10px;
+}
+
+a:link {
+  color: rgb(112, 150, 184);
+  text-align: center;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(146, 122, 173);
+  text-align: center;
+  text-decoration: none;
+}
+
+body {
+  color: aliceblue;
+}
+
+b {
+  font-size: larger;
+  font-variant: small-caps;
+  font-weight: lighter;
+}
+
+div.navLink {
+  color: rgb(112, 150, 184);
+  display: inline;
+  font-size: small;
+  padding: 5px;
+}
+
+h1 {
+  font-size: medium;
+  text-align: center;
+}
+
+h2 {
+  font-size: large;
+  padding-top: 18px;
+  text-align: center;
+  padding: 5px;
+}
+
+html {
+  align-items: center;
+  background-color: #282c34;
+  color: grey;
+  font-size: calc(10px + 2vmin);
+  min-height: 100vh;
+}
+
+table {
+  font-size: medium;
+  line-height: 150%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tbody {
+  text-align: center;
+}
+
+td {
+  align-self: auto;
+  padding: 10px;
+  text-align: justify;
+}
+
+th {
+  padding: 10px;
+  text-align: justify;
+}
+
+tr {
+  padding: 10px;
+}
